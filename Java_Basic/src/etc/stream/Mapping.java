@@ -80,7 +80,7 @@ public class Mapping {
                 .map(dish -> new DishNameType(dish))
                 .collect(Collectors.toList())
                 .forEach(ds -> System.out.println("ds = " + ds));
-
+                //회색 코드는 리턴하는 값을 인텔리제이에서 제공하는 기능이다.
 
     }
 }

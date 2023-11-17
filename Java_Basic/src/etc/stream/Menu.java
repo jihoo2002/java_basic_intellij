@@ -18,6 +18,8 @@ public class Menu {
                 new Dish("prawns", false, 400, Dish.Type.FISH),
                 new Dish("salmon", false, 450, Dish.Type.FISH)
         );
+
+
     }
 
 
